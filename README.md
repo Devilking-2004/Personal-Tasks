@@ -1,8 +1,18 @@
-This is the section consists my tasks those I've done by Self-Learning and gained Core concepts of Networking and Cloud Computing. You can see and review my tasks in the project section.
+# 🔧 Personal Learning Tasks
 
-Tools and Platforms Used:
-1. Cisco Packet Tracer
-2. Amazon Web Services (AWS)
+This section includes self-learning tasks completed to build a strong foundation in Networking and Cloud Computing. These tasks were performed independently to understand core concepts through hands-on practice. Related implementations and exercises are available in the Projects section for review.
 
-Skills Used:
-Routing, Switching, Troubleshooting, DNS, DHCP, HTTP/HTTPS, VLAN, TCP/UDP, IP, Cloud Computing, ICMP
+# Tools and Platforms Used
+* Cisco Packet Tracer
+* Amazon Web Services (AWS)
+
+# Skills Practiced
+* Routing and Switching fundamentals
+* Network troubleshooting and connectivity testing
+* DNS and DHCP configuration and analysis
+* ICMP usage for network diagnostics
+* Understanding HTTP and HTTPS communication
+* VLAN concepts and basic network segmentation
+* TCP and UDP protocol behavior
+* IP addressing and basic network planning
+* Cloud computing fundamentals and AWS service usage
