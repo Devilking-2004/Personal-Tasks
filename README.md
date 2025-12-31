@@ -9,10 +9,13 @@ This section includes self-learning tasks completed to build a strong foundation
 # Skills Practiced
 * Routing and Switching fundamentals
 * Network troubleshooting and connectivity testing
-* DNS and DHCP configuration and analysis
-* ICMP usage for network diagnostics
-* Understanding HTTP and HTTPS communication
-* VLAN concepts and basic network segmentation
-* TCP and UDP protocol behavior
-* IP addressing and basic network planning
+* Subnetting each Users with Default IP Address
 * Cloud computing fundamentals and AWS service usage
+* Cost Optimization by Pay-As-You-Go concept
+
+# Services Used
+**1. Networking:**
+*Routing, Switching, Troubleshooting, Configuring, TCP/IP, UDP, HTTP/HTTPS, DHCP, DNS, VPN, ICMP, ping, netstat, traceroute, ipconfig*
+
+**2. Cloud Computing (AWS):**
+*EC2, S3, IAM, VPC, Lambda, SNS, SQS, CloudWatch, RDS, DynamoDB*
