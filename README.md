@@ -18,4 +18,4 @@ This section includes self-learning tasks completed to build a strong foundation
 *Routing, Switching, Troubleshooting, Configuring, TCP/IP, UDP, HTTP/HTTPS, DHCP, DNS, VPN, ICMP, ping, netstat, traceroute, ipconfig*
 
 **2. Cloud Computing (AWS):**
-*EC2, S3, IAM, VPC, Lambda, SNS, SQS, CloudWatch, RDS, DynamoDB*
+*EC2, S3, EBS, IAM, VPC, Lambda, SNS, SQS, CloudWatch, RDS, DynamoDB*
